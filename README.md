@@ -26,5 +26,5 @@ I collaborated with a team to develop the game and took full responsibility for 
 - Designed a **responsive UI** that scrolls independently of the whole website.
 - Focused on clean UI/UX using Tailwind CSS and efficient rendering via React.
 
----
+
 
